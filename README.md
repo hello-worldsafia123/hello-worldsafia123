@@ -1,6 +1,6 @@
 # Hi there, I'm Safia ELMESLILI 👋 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabouraya&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hello-worldsafia123&theme=radical&show_icons=true)
  # Hi there! 👋
 
 I'm Safia ELMESLILI, a Full Stack Developer! 👩‍💻
@@ -23,3 +23,6 @@ I'm Safia ELMESLILI, a Full Stack Developer! 👩‍💻
 Let's connect and build something amazing together! 🚀
 
 - 📫 How to reach me : Email : elmeslilis@gmail.com /  <br>
+### 💻 Top Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-worldsafia123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
